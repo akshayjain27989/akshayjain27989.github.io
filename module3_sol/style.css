@@ -1,0 +1,104 @@
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    border-radius: 0px;
+    background-color: rgba(90, 20, 20, 0.781);
+}
+
+.navbar-brand {
+    font-size: 35px;
+    color: rgb(44, 201, 141);
+    padding-left: 25px;
+}
+
+.btn-secondary{
+    float: right;
+    
+}
+#dropdownMenuButton{
+    float:right;
+}
+.navbar-brand:hover {
+    color: rgb(97, 9, 179);
+}
+
+.nav {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-nav {
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-toggle {
+    border: 2px solid white;
+    margin-right: 25px;
+}
+
+.icon-bar {
+    background-color: white;
+}
+
+
+.main-title {
+    margin-bottom: 15px;
+    text-align: center;
+    color: #10042b;
+    font-size: 50px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bold;
+}
+
+li {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.menu-item {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: rgb(182, 35, 135);
+    border-bottom: 1px solid black;
+    color: black;
+    display: block;
+}
+
+.menu-item:hover {
+    background-color: rgba(0, 0, 0, 0.9);
+    color: rgba(0, 0, 0, 0.4);
+}
+
+
+
+.row {
+    margin: 20px;
+}
+
+.content-box {
+    margin: 20px;
+    width: auto;
+    height: auto;
+    color: rgb(22, 9, 9);
+    background-color: rgba(202, 148, 148, 0.2);
+    font-family: Times,
+    "Times New Roman",
+    Georgia,
+    serif;
+    padding: 20px;
+}
+
+.item-name {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#top {}
